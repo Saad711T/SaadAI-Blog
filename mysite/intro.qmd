@@ -115,3 +115,15 @@ title: "Introduction and theories posts"
 <img src="../blog/images/exampledata.png" width="300px" alt="image" />
 
 <hr>
+
+9.  [تعلم الآلة المتقدم](blog/post31.qmd)
+
+<br>
+
+راجعنا في مقالة سابقة تعلم الآلة وكانت بمثابة الطريقة الأساسية للذكاء الاصطناعي , حيث يتم تلقين الحاسوب بيانات مجهزة ومحللة ومنظفة مسبقاً عبر خوارزميات وأسس معينة , ويمكن من هنا مراجعة المقالة :
+[..إكمال القراءة](blog/post35.qmd)
+
+<br>
+
+<img src="../blog/images/aidiagram2.png" width="300px" alt="image" />
+
