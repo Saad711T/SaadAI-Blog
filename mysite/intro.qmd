@@ -127,3 +127,17 @@ title: "Introduction and theories posts"
 
 <img src="../blog/images/aidiagram2.png" width="300px" alt="image" />
 
+<hr>
+
+10.  [مقدمة في التعلم العميق](blog/post32.qmd)
+
+<br>
+
+التعلم العميق هو فرع من تعلم الآلة حيث يتعمق النموذج في طبقات التعلم , وغالباً ما يستخدم التعلم العميق تقنية الشبكات العصبية .
+[..إكمال القراءة](blog/post32.qmd)
+
+<br>
+
+<img src="../blog/images/spam-nn.png" width="300px" alt="image" />
+
+
