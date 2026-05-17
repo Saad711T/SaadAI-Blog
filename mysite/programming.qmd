@@ -148,3 +148,16 @@ title: "Programming posts"
 <br>
 
 <img src="../blog/images/internet.png" width="300px" alt="image" />
+
+<hr>
+
+12.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+
+<br>
+
+مكتبة باي تورش هي مكتبة تعلم آلة وتعلم عميق مفتوحة المصدر تم انشائها من قبل شركة ميتا للغة بايثون كوريثة لمكتبة تورش في لغة سي بلس بلس , وحالياً يتم تقديم الدعم لها من قبل مؤسسة لينكس .
+[..إكمال القراءة](blog/post40.qmd)
+
+<br>
+
+<img src="../blog/images/pytorch.png" width="300px" alt="image" />
