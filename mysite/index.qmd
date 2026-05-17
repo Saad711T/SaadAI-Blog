@@ -1,29 +1,45 @@
 ---
-title: "Home Page"
+title: "Welcome to SaadAI Blog"
 ---
-أهلاً بك في مدونتي الخاصة بعالم الذكاء الإصطناعي وتعلم الآلة .
+أهلاً بك في مدونتي الخاصة بعالم الذكاء الاصطناعي وتعلم الآلة , هناك العديد من المقالات حول المجال هذا بالإضافة لمجالات أضافية أخرى مثل الرياضيات , أساسيات البرمجة وحتى المقالات النظرية المتمحورة حول مجال الذكاء الاصطناعي
 
+### الذكاء الاصطناعي ليس فقط شات جي بي تي
+الذكاء الاصطناعي مفهوم واسع وأشمل حتى من بوتات المحادثة والنماذج اللغوية الكبيرة , ويعد مجالاً قديماً ومتجثراً في علوم الحاسب بل ومرتبط بعلوم أخرى كالرياضيات التطبيقية والرياضيات البحتة وحتى الفلسفة والأدب !
+
+أنظمة معالجة الصور , الرؤية الحاسوبية وتطبيقاتها كجهاز مخالفة السرعة , أنظمة توصيات مقاطع الفيديو وصولاً إلى بوتات المحادثة والدعم الفني كلها ذكاء اصطناعي !
+
+![شات جي بي تي النموذج الأشهر من اوبن آي اي والذي تم إطلاقه في نوفمبر 2022 , وسبب ضجة إعلامية قامت بتعريف الناس بشكل مبسط عن الذكاء الاصطناعي](images/gpt.png)
 
 #### لرؤية أحدث التدوينات
 [Link](blog.qmd)
 
 
-## Credits
+## من أنا ؟
 - [0xSaad](https://github.com/Saad711T)
 
-مهتم بعلم البيانات والذكاء الاصطناعي - تطوير الويب والبرمجيات
+سعد المالكي , عالم بيانات ومهندس برمجيات سعودي وطالب علوم حاسب مهتم في تطوير المشاريع مفتوحة المصدر لا سيما في مجال تطوير الويب وعلم البيانات.
 
-<p align="center">
-    <a href="https://www.credly.com/badges/335df2fa-522e-49b9-a222-087a27bc63a2">
-        <img src="https://images.credly.com/size/500x500/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150">
-    </a>
-    <a href="https://www.coursera.org/account/accomplishments/professional-cert/SPW96OECT5TK">
-        <img src="https://images.credly.com/size/490x490/images/024324c7-4d4c-4008-8db7-01e0d4222126/image.png" width="150">
-    </a>
-    <a href="https://www.credly.com/badges/71038d79-f6ed-4682-b4c2-c030203cf28d">
-        <img src="https://images.credly.com/size/680x680/images/42ce4209-8839-431a-9046-f2ce2e72e04b/Coursera_20Data_20Science_20Professional_20Certificate.png" width="150">
-    </a>
-    <a href="https://www.udacity.com/certificate/e/b32ada52-bc56-11ef-9395-bf7c49cdfda7">
-        <img src="https://images.credly.com/size/680x680/images/62331d66-bbb6-4912-a986-7ef7f9d29785/image.png" width="150">
-    </a>
+أبرز أعمالي :
+
+-[SaadBrowser](https://github.com/Saad711T/SaadBrowser) : متصفح شخصي من مطور واحد يعمل على ويندوز ولينكس وآندرويد
+
+-[Vectorizer-SVG](https://pypi.org/project/vectorizer-svg) : مكتبة في لغة بايثون خاصة بالجبر الخطي وخصوصاً المتجهات والعمليات المتعلقة بها كإشتقاق المتجه وضرب المتجهات وحتى رسم المتجهات
+
+-[Matrices&Arrays Programming minibook](https://github.com/Saad711T/Matrices-Arrays-Programming-minibook) : كتاب برمجة المصفوفات هو كتاب تم كتابته بواسطة جوبيتر نوتبوك يشرح ويلخص طريقة عمل مكتبة نمباي الرياضية في لغة بايثون لصنع المصفوفات المستخدمة في الذكاء الاصطناعي والحوسبة العلمية
+
+-[CarsAI](https://github.com/Saad711T/CarsAI) : نموذج شبكة عصبية مبني بمكتبة باي تورش يقوم بأعمال متعلقة بالرؤية الحاسوبية ومعالجة الصور لتصنيف شركات السيارات من الصور وتم تدريبه على خمسة شركات سيارات شهيرة
+
+#### للتواصل - For Contact
+-[X.com](https://x.com/0xdonzdev)
+-[LinkedIn](https://www.linkedin.com/in/saadalmalki711)
+-[Github](https://github.com/Saad711T)
+
+<br>
+
+<hr>
+
+<p  align="center"> All rights Reserved 2026
+<a href="https://sdaia.gov.sa/ar/MediaCenter/Pages/ai-year.aspx">
+<img src="images/yearofai.jpeg" width="290px">
+</a>
 </p>

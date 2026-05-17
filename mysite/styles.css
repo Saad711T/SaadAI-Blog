@@ -4,6 +4,11 @@
   --shadow-md: 0 4px 18px rgba(0,0,0,.10);
 }
 
+.title{
+  text-align: center;
+  font-size: 20px;
+}
+
 main.content, .quarto-container, .page-columns {
   line-height: 1.65;
   word-wrap: break-word;
