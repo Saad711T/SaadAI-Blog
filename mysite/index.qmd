@@ -17,7 +17,7 @@ title: "Welcome to SaadAI Blog"
 ## من أنا ؟
 - [0xSaad](https://github.com/Saad711T)
 
-سعد المالكي , عالم بيانات ومهندس برمجيات سعودي وطالب علوم حاسب مهتم في تطوير المشاريع مفتوحة المصدر لا سيما في مجال تطوير الويب وعلم البيانات.
+سعد المالكي , عالم بيانات ومهندس برمجيات سعودي وطالب علوم حاسب مهتم في تطوير المشاريع مفتوحة المصدر لاسيما في مجال تطوير الويب وعلم البيانات.
 
 أبرز أعمالي :
 
@@ -30,9 +30,21 @@ title: "Welcome to SaadAI Blog"
 -[CarsAI](https://github.com/Saad711T/CarsAI) : نموذج شبكة عصبية مبني بمكتبة باي تورش يقوم بأعمال متعلقة بالرؤية الحاسوبية ومعالجة الصور لتصنيف شركات السيارات من الصور وتم تدريبه على خمسة شركات سيارات شهيرة
 
 #### للتواصل - For Contact
--[X.com](https://x.com/0xdonzdev)
--[LinkedIn](https://www.linkedin.com/in/saadalmalki711)
--[Github](https://github.com/Saad711T)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saadalmalki711/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+    <a href="https://github.com/Saad711T" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="X" />
+  </a>
+  <a href="https://www.x.com/0xdonzdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/creator_sai711/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
 
 <br>
 
