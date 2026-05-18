@@ -103,7 +103,21 @@ title: "Programming posts"
 
 <hr>
 
-8. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+8.  [مستودعات البيانات](blog/post26.6.qmd)
+
+<br>
+
+مستودع البيانات هو نظام لإدارة البيانات بشكل متقدم يختلف عن قواعد البيانات التقليدية
+[..إكمال القراءة](blog/post26.6.qmd)
+
+<br>
+
+<img src="../blog/images/my-dw.png" width="300px" alt="image" />
+
+<hr>
+
+
+9. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
@@ -116,7 +130,7 @@ title: "Programming posts"
 
 <hr>
 
-9. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
+10. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
 
 <br>
 
@@ -129,7 +143,7 @@ title: "Programming posts"
 
 <hr>
 
-10. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
+11. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
 
 <br>
 
@@ -138,7 +152,7 @@ title: "Programming posts"
 
 <hr>
 
-11.  [تطوير الويب](blog/post35.qmd)
+12.  [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -151,7 +165,7 @@ title: "Programming posts"
 
 <hr>
 
-12.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+13.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
 
 <br>
 
@@ -164,7 +178,7 @@ title: "Programming posts"
 
 <hr>
 
-13.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+14.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
 
 <br>
 
