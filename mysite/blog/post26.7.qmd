@@ -247,8 +247,13 @@ title: "نظم التشغيل"
 ## مصادر ومراجع :
 
 -[Geeksforgeeks - Operating Systems](https://www.geeksforgeeks.org/operating-systems/operating-systems/)
+
 - Operating System Concepts - Silberschatz, Galvin, Gagne (Dinosaurs book)
+- 
 -[IBM - What is an Operating Systems ?](https://www.ibm.com/think/topics/operating-systems)
+
 -[Tutorialspoint - Operating Systems tutorial](https://www.tutorialspoint.com/operating_system/index.htm)
+
 - Pearson Operating Systems: Internals and Design Principles book
+
 -[Google on coursera - Operating Systems and You: Becoming a Power User](https://www.coursera.org/learn/os-power-user)
