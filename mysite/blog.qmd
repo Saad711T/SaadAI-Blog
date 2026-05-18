@@ -392,7 +392,21 @@ title: "Blog"
 
 <hr>
 
-29.  [نظم التشغيل](blog/post26.7.qmd)
+29.  [معمارية الحاسبات](blog/post26.8.qmd)
+
+<br>
+
+هي البنية الرئيسية التي تصف مما يتكون جهاز الكمبيوتر وكيف يتصرف مع كل جزء ووظيفة كل جزء .
+[..إكمال القراءة](blog/post26.8.qmd)
+
+<br>
+
+<img src="../blog/images/operating-systems.png" width="300px" alt="image" />
+
+<hr>
+
+
+30.  [نظم التشغيل](blog/post26.7.qmd)
 
 <br>
 
@@ -407,7 +421,7 @@ title: "Blog"
 
 
 
-30. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+31. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
@@ -420,7 +434,7 @@ title: "Blog"
 
 <hr>
 
-31. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
+32. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
 
 <br>
 
@@ -433,7 +447,7 @@ title: "Blog"
 
 <hr>
 
-32. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
+33. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
 
 <br>
 
@@ -442,7 +456,7 @@ title: "Blog"
 
 <hr>
 
-33.  [تعلم الآلة المتقدم](blog/post31.qmd)
+34.  [تعلم الآلة المتقدم](blog/post31.qmd)
 
 <br>
 
@@ -458,7 +472,7 @@ title: "Blog"
 
 <hr>
 
-34.  [مقدمة في التعلم العميق](blog/post32.qmd)
+35.  [مقدمة في التعلم العميق](blog/post32.qmd)
 
 <br>
 
@@ -474,7 +488,7 @@ title: "Blog"
 
 <hr>
 
-35.  [الشبكات العصبية](blog/post33.qmd)
+36.  [الشبكات العصبية](blog/post33.qmd)
 
 <br>
 
@@ -491,7 +505,7 @@ title: "Blog"
 <hr>
 
 
-36.   [تطوير الويب](blog/post35.qmd)
+37.   [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -504,7 +518,7 @@ title: "Blog"
 
 <hr>
 
-37.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+38.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
 
 <br>
 
@@ -517,7 +531,7 @@ title: "Blog"
 
 <hr>
 
-38.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+39.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
 
 <br>
 
@@ -530,7 +544,7 @@ title: "Blog"
 
 <hr>
 
-39.    [الرؤية الحاسوبية](blog/post43.qmd)
+40.    [الرؤية الحاسوبية](blog/post43.qmd)
 
 <br>
 

@@ -116,7 +116,21 @@ title: "Programming posts"
 
 <hr>
 
-9.  [نظم التشغيل](blog/post26.7.qmd)
+9.  [معمارية الحاسبات](blog/post26.8.qmd)
+
+<br>
+
+هي البنية الرئيسية التي تصف مما يتكون جهاز الكمبيوتر وكيف يتصرف مع كل جزء ووظيفة كل جزء .
+[..إكمال القراءة](blog/post26.8.qmd)
+
+<br>
+
+<img src="../blog/images/operating-systems.png" width="300px" alt="image" />
+
+<hr>
+
+
+10.  [نظم التشغيل](blog/post26.7.qmd)
 
 <br>
 
@@ -131,7 +145,7 @@ title: "Programming posts"
 
 
 
-10. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+11. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
@@ -144,7 +158,7 @@ title: "Programming posts"
 
 <hr>
 
-11. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
+12. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
 
 <br>
 
@@ -157,7 +171,7 @@ title: "Programming posts"
 
 <hr>
 
-12. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
+13. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
 
 <br>
 
@@ -166,7 +180,7 @@ title: "Programming posts"
 
 <hr>
 
-13.  [تطوير الويب](blog/post35.qmd)
+14.  [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -179,7 +193,7 @@ title: "Programming posts"
 
 <hr>
 
-14.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+15.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
 
 <br>
 
@@ -192,7 +206,7 @@ title: "Programming posts"
 
 <hr>
 
-15.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+16.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
 
 <br>
 

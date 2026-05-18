@@ -31,7 +31,7 @@ title: "Welcome to SaadAI Blog"
 
 #### للتواصل - For Contact
 
-<p align="left">
+<p class="logos" align="left">
   <a href="https://www.linkedin.com/in/saadalmalki711/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>

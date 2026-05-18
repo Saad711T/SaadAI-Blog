@@ -9,6 +9,10 @@
   font-size: 40px;
 }
 
+.logos {
+  text-align: center;
+}
+
 main.content, .quarto-container, .page-columns {
   line-height: 1.65;
   word-wrap: break-word;
