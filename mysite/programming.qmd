@@ -161,3 +161,17 @@ title: "Programming posts"
 <br>
 
 <img src="../blog/images/pytorch.png" width="300px" alt="image" />
+
+<hr>
+
+13.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+
+<br>
+
+نستكمل ما بدأناه في المقالة السابقة وسنشرح في هذه المقالة الأوامر الأخرى الموجودة في المكتبة وإستخداماتها المتقدمة.
+[..إكمال القراءة](blog/post41.qmd)
+
+<br>
+
+<img src="../blog/images/deep-neural-network.jpg" width="300px" alt="image" />
+
