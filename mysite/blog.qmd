@@ -498,6 +498,18 @@ title: "Blog"
 
 <br>
 
-<img src="../blog/images/deep-neural-network.jpg" width="300px" alt="image" />
+<img src="../blog/images/dnn.jpg" width="300px" alt="image" />
 
+<hr>
+
+37.    [الرؤية الحاسوبية](blog/post43.qmd)
+
+<br>
+
+الرؤية الحاسوبية هي فرع من الذكاء الاصطناعي يجعل الآلات قادرة على رؤية الصور واستخراج بيانات دقيقة منها للتحليل والتصنيف .
+[..إكمال القراءة](blog/post43.qmd)
+
+<br>
+
+<img src="../blog/images/cv.jpg" width="300px" alt="image" />
 

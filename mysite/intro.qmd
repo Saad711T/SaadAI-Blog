@@ -153,5 +153,18 @@ title: "Introduction and theories posts"
 
 <img src="../blog/images/human-neurons.jpg" width="300px" alt="image" />
 
+<hr>
+
+12.    [الرؤية الحاسوبية](blog/post43.qmd)
+
+<br>
+
+الرؤية الحاسوبية هي فرع من الذكاء الاصطناعي يجعل الآلات قادرة على رؤية الصور واستخراج بيانات دقيقة منها للتحليل والتصنيف .
+[..إكمال القراءة](blog/post43.qmd)
+
+<br>
+
+<img src="../blog/images/cv.jpg" width="300px" alt="image" />
+
 
 
