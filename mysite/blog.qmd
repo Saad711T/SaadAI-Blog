@@ -401,7 +401,7 @@ title: "Blog"
 
 <br>
 
-<img src="../blog/images/operating-systems.png" width="300px" alt="image" />
+<img src="../blog/images/cpu.jpg" width="300px" alt="image" />
 
 <hr>
 
