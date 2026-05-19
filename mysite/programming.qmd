@@ -180,7 +180,24 @@ title: "Programming posts"
 
 <hr>
 
-14.  [تطوير الويب](blog/post35.qmd)
+14.  [شبكات الحاسب](blog/post35.5.qmd)
+
+<br>
+
+الشبكة الحاسوبية هي عدد من الأجهزة مربوطة في بعضها البعض .
+[..إكمال القراءة](blog/post35.5.qmd)
+
+<br>
+
+<img src="../blog/images/router2.jpg" width="300px" alt="image" />
+
+
+
+
+<hr>
+
+
+15.  [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -193,7 +210,7 @@ title: "Programming posts"
 
 <hr>
 
-15.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+16.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
 
 <br>
 
@@ -206,7 +223,7 @@ title: "Programming posts"
 
 <hr>
 
-16.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+17.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
 
 <br>
 

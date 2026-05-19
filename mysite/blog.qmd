@@ -504,8 +504,25 @@ title: "Blog"
 
 <hr>
 
+37.  [شبكات الحاسب](blog/post35.5.qmd)
 
-37.   [تطوير الويب](blog/post35.qmd)
+<br>
+
+الشبكة الحاسوبية هي عدد من الأجهزة مربوطة في بعضها البعض .
+[..إكمال القراءة](blog/post35.5.qmd)
+
+<br>
+
+<img src="../blog/images/router2.jpg" width="300px" alt="image" />
+
+
+
+
+<hr>
+
+
+
+38.   [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -518,7 +535,7 @@ title: "Blog"
 
 <hr>
 
-38.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+39.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
 
 <br>
 
@@ -531,7 +548,7 @@ title: "Blog"
 
 <hr>
 
-39.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+40.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
 
 <br>
 
@@ -544,7 +561,7 @@ title: "Blog"
 
 <hr>
 
-40.    [الرؤية الحاسوبية](blog/post43.qmd)
+41.    [الرؤية الحاسوبية](blog/post43.qmd)
 
 <br>
 
