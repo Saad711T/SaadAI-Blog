@@ -189,7 +189,7 @@ title: "Programming posts"
 
 <br>
 
-<img src="../blog/images/router2.jpg" width="300px" alt="image" />
+<img src="../blog/images/router2.png" width="300px" alt="image" />
 
 
 
