@@ -4,3 +4,11 @@ mysite/* linguist-generated
 *.qmd linguist-detectable=true
 *.qmd linguist-language=r
 *.qmd text
+
+* text=auto
+
+*.js linguist-detectable=true
+*.js linguist-language=JavaScript
+
+*.css linguist-detectable=true
+*.css linguist-language=CSS
