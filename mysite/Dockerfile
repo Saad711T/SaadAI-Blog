@@ -21,7 +21,9 @@ RUN pip3 install --no-cache-dir \
     pandas \
     matplotlib \
     seaborn \
-    scikit-learn
+    scikit-learn \
+    torch \
+    torchvision
 
 WORKDIR /app
 COPY . .
