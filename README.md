@@ -3,6 +3,9 @@
 [Cranl.com Version](https://saadai-blog-kzx8bx.cranl.net/)
 
 If your anti-virus say the above link is malware enter this version :
+
+<br>
+
 [Archived Version (Main 2025-2026)](https://saadaiblog.netlify.app/)
 
 ## Info
