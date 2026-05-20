@@ -166,5 +166,17 @@ title: "Introduction and theories posts"
 
 <img src="../blog/images/cv.jpg" width="300px" alt="image" />
 
+<hr>
+
+13.    [معالجة اللغة الطبيعية](blog/post45.qmd)
+
+<br>
+
+معالجة اللغة الطبيعية هو فرع من فروع الذكاء الاصطناعي يهتم بدمج تقنيات الذكاء الاصطناعي الحديثة مع مجال اللغويات .
+[..إكمال القراءة](blog/post45.qmd)
+
+<br>
+
+<img src="../blog/images/Alexa.png" width="300px" alt="image" />
 
 
