@@ -57,7 +57,7 @@ title: "خارطة الطريق"
 
 - Data Science Programming for Dummies , By John Mueller and Luca Massaron :
 
-<img src="images/ds-book.jpg" width="500px" >
+<img src="images/ds-book.jpg" width="280px" >
 
 يعد كتاب برمجة علم البيانات من أفضل الكتب في المجال , ويشمل الأساسيات وتحليل البيانات وتعلم الآلة ومجالات شتى كالرؤية الحاسوبية والتعلم العميق ومعالجة الصور
 
@@ -65,13 +65,13 @@ title: "خارطة الطريق"
 
 - Deep Learning for Dummies , By John Mueller and Luca Massaron :
 
-<img src="images/dp-book.jpg" width="500px" >
+<img src="images/dp-book.jpg" width="280px" >
 
 من نفس مؤلفي الكتاب السابق لكنه يركز بشكل كبير على التعلم العميق والشبكات العصبية .
 
 - Calculus for Dummies , By Mark Ryan :
 
-<img src="images/calculus.png" width="500px" >
+<img src="images/calculus.png" width="280px" >
 
 ويعد من أفضل الكتب لدي عن مجال التفاضل والتكامل وأساسياته وتطبيقاته والذي فادني جامعياً وتقنياً .
 
