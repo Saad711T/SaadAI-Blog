@@ -8,7 +8,7 @@ mysite/* linguist-generated
 * text=auto
 
 *.js linguist-detectable=true
-*.js linguist-language=JavaScript
+*.js linguist-language=javascript
 
 *.css linguist-detectable=true
-*.css linguist-language=CSS
+*.css linguist-language=css
