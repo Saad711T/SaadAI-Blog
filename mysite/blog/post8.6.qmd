@@ -68,7 +68,8 @@ title: "مايكروسوفت إكسل لتحليل البيانات"
 
 وأنصح بالدورة هذه بشكل عام :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uRs8_EJqTFo?si=wxZxRBfAKCsw7tyw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Youtube Video](https://www.youtube.com/watch?v=uRs8_EJqTFo)
+
 
 #### ختامية
 تعلمنا نبذة عن مايكروسوفت إكسل وأهم الدوال فيه وتاريخ البرنامج بشكل عام وإستخدامه , وكيف أنه مهم لمكتبة بايثون لاحقاً تسمى بانداس .
