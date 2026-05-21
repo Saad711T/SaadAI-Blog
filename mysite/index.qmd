@@ -54,7 +54,7 @@ title: "Welcome to SaadAI Blog"
 
 <hr>
 
-<p  align="center"> All rights Reserved 2026
+<p  align="center"> All rights Reserved 2026 - STACKS the NULLS and 0xSaad , Sponsored by Cranl.com
 <a href="https://sdaia.gov.sa/ar/MediaCenter/Pages/ai-year.aspx">
 <img src="images/yearofai.jpeg" width="290px">
 </a>

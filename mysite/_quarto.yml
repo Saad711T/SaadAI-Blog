@@ -17,7 +17,6 @@ website:
         text: Programming
 format:
   html:
-    include-after-body: script.js
     lang: ar
     dir: rtl
     theme: cosmo
