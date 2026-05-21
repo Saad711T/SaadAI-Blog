@@ -65,7 +65,7 @@ title: "بحوث : برمجة خطية"
 ### Simplex LP
 سيطول شرحنا لها في المقال فلذلك أنصح بمشاهدة مقطع الفيديو هذا :
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rq4SkAYwIdQ?si=evkEozPj9gi_nQcH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[Youtube Video](https://www.youtube.com/watch?v=rq4SkAYwIdQ)
 
 ## مصادر ومراجع :
 - [ويكيبيديا - برمجة خطية](https://ar.wikipedia.org/wiki/%D8%A8%D8%B1%D9%85%D8%AC%D8%A9_%D8%AE%D8%B7%D9%8A%D8%A9)
