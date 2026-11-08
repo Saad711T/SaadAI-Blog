@@ -107,12 +107,12 @@ title: "Programming posts"
 
 <br>
 
-مستودع البيانات هو نظام لإدارة البيانات بشكل متقدم يختلف عن قواعد البيانات التقليدية
+مستودع البيانات هو نموذج تخزين للبيانات يختلف عن قواعد البيانات بأنه يجلب البيانات من مصادر عدة بهدف تحليلها
 [..إكمال القراءة](blog/post26.6.qmd)
 
 <br>
 
-<img src="../blog/images/my-dw.png" width="300px" alt="image" />
+<img src="../blog/images/dw-types.png" width="300px" alt="image" />
 
 <hr>
 
