@@ -12,7 +12,7 @@ SaadAIBlog is blog about Artificial Intelligence and Machine learning. With many
 
 ## Roadmap
 
-![Roadmap](mysite/images/roadmap.jpg)
+![Roadmap](/mysite/blog/images/roadmap.jpg)
 
 
 ### Credits
