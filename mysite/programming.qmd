@@ -17,8 +17,22 @@ title: "Programming posts"
 
 <hr>
 
+2.  [بيئة جوبيتر](blog/post16.5.qmd)
 
-2. [برمجة المصفوفات](blog/post16.qmd)
+<br>
+
+تعد دفاتر جوبيتر من أهم البيئات التفاعلية في علم البيانات والذكاء الاصطناعي والتي ينبغي أخذ نبذة عنها
+[..إكمال القراءة](blog/post16.5.qmd)
+
+<br>
+
+<img src="../blog/images/jupyter.png" width="300px" alt="image" />
+
+<hr>
+
+
+
+3. [برمجة المصفوفات](blog/post16.qmd)
 
 <br>
 
@@ -31,7 +45,7 @@ title: "Programming posts"
 
 <hr>
 
-3. [مكتبة بانداس : الجزء 1](blog/post17.qmd)
+4. [مكتبة بانداس : الجزء 1](blog/post17.qmd)
 
 <br>
 
@@ -45,7 +59,7 @@ title: "Programming posts"
 
 <hr>
 
-4. [مكتبة بانداس : الجزء 2](blog/post18.qmd)
+5. [مكتبة بانداس : الجزء 2](blog/post18.qmd)
 
 <br>
 
@@ -59,7 +73,7 @@ title: "Programming posts"
 
 <hr>
 
-5. [تمثيل البيانات](blog/post20.qmd)
+6. [تمثيل البيانات](blog/post20.qmd)
 
 <br>
 
@@ -73,7 +87,7 @@ title: "Programming posts"
 
 <hr>
 
-6. [مكتبة ماتبلوتليب](blog/post21.qmd)
+7. [مكتبة ماتبلوتليب](blog/post21.qmd)
 
 <br>
 
@@ -90,7 +104,7 @@ title: "Programming posts"
 
 
 
-7. [لمحة عن قواعد البيانات](blog/post26.qmd)
+8. [لمحة عن قواعد البيانات](blog/post26.qmd)
 
 <br>
 
@@ -103,7 +117,7 @@ title: "Programming posts"
 
 <hr>
 
-8.  [مستودعات البيانات](blog/post26.6.qmd)
+9.  [مستودعات البيانات](blog/post26.6.qmd)
 
 <br>
 
@@ -116,7 +130,7 @@ title: "Programming posts"
 
 <hr>
 
-9.  [معمارية الحاسبات](blog/post26.8.qmd)
+10.  [معمارية الحاسبات](blog/post26.8.qmd)
 
 <br>
 
@@ -130,7 +144,7 @@ title: "Programming posts"
 <hr>
 
 
-10.  [نظم التشغيل](blog/post26.7.qmd)
+11.  [نظم التشغيل](blog/post26.7.qmd)
 
 <br>
 
@@ -145,7 +159,7 @@ title: "Programming posts"
 
 
 
-11. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
+12. [لمحة عن نظام تشغيل جنو/لينكس](blog/post26.5.qmd)
 
 <br>
 
@@ -158,7 +172,7 @@ title: "Programming posts"
 
 <hr>
 
-12. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
+13. [مكتبة سايكت ليرن : الجزء 1](blog/post27.qmd)
 
 <br>
 
@@ -171,7 +185,7 @@ title: "Programming posts"
 
 <hr>
 
-13. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
+14. [مكتبة سايكت ليرن : الجزء 2](blog/post28.qmd)
 
 <br>
 
@@ -180,7 +194,7 @@ title: "Programming posts"
 
 <hr>
 
-14.  [شبكات الحاسب](blog/post35.5.qmd)
+15.  [شبكات الحاسب](blog/post35.5.qmd)
 
 <br>
 
@@ -197,7 +211,7 @@ title: "Programming posts"
 <hr>
 
 
-15.  [تطوير الويب](blog/post35.qmd)
+16.  [تطوير الويب](blog/post35.qmd)
 
 <br>
 
@@ -210,7 +224,7 @@ title: "Programming posts"
 
 <hr>
 
-16.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
+17.    [مكتبة باي تورش : الجزء 1](blog/post40.qmd)
 
 <br>
 
@@ -223,7 +237,7 @@ title: "Programming posts"
 
 <hr>
 
-17.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
+18.    [مكتبة باي تورش : الجزء 2](blog/post41.qmd)
 
 <br>
 
